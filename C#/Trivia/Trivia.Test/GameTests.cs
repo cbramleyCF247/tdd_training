@@ -1,7 +1,7 @@
 using NUnit.Framework;
 using UglyTrivia;
 
-namespace Tests
+namespace Trivia.Test
 {
     public class Tests
     {
